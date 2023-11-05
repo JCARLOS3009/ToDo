@@ -1,0 +1,28 @@
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  width: 95%;
+}
+
+.app-title {
+  color: #7d7d7d;
+  font-weight: 700;
+  font-family: fantasy;
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.app-content {
+  background: #ecedf6;
+  border: none;
+  border-radius: 0.3rem;
+  padding: 2rem;
+  margin-top: 1rem;
+  heigh: auto;
+}

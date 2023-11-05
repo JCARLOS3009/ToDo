@@ -1,0 +1,11 @@
+.awesome-button {
+  background: #e3e3e3;
+  border: none;
+  border-radius: 0.3rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.awesome-button:hover {
+  background: #c4c4c4;
+}
